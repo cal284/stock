@@ -1,1 +1,1 @@
-worker: Python email_stock_alerts.py
+worker: python email_stock_alerts.py
