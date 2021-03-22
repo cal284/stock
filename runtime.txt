@@ -1,0 +1,1 @@
+worker: Python email_stock_alerts.py
