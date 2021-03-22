@@ -2,16 +2,16 @@
 # coding: utf-8
 
 # # Stock tracker sending email alerts 
-https://medium.com/illumination/how-to-build-a-stock-price-alert-using-python-d7d61ec12f2https://docs.python.org/3/library/email.examples.html
-How to Create and use app passwords for gmail 
+#https://medium.com/illumination/how-to-build-a-stock-price-alert-using-python-d7d61ec12f2https://docs.python.org/3/library/email.examples.html
+#How to Create and use app passwords for gmail 
 
 
-Go to your Google Account.
-On the left navigation panel, choose Security.
-On the 'Signing in to Google' panel, choose App passwords. ...
-At the bottom, choose Select app and choose the app that you're using.
-Choose Select device and choose the device that you're using.
-Choose Generate.
+#Go to your Google Account.
+#On the left navigation panel, choose Security.
+#On the 'Signing in to Google' panel, choose App passwords. ...
+#At the bottom, choose Select app and choose the app that you're using.
+#Choose Select device and choose the device that you're using.
+#Choose Generate.
 # In[ ]:
 
 
