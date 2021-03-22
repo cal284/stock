@@ -1,1 +1,1 @@
-worker:  stock-app.py
+worker:  Python stock.py
